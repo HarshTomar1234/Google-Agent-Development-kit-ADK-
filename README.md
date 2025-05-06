@@ -1,7 +1,7 @@
 # ADK Bot
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/agent_development_kit_card.max-2000x2000.jpg" alt="Google Agent Development Kit" width="600">
+  <img src="https://google.github.io/adk-docs/assets/agent-development-kit.png" alt="Google Agent Development Kit" width="600">
 </p>
 
 A Python-based agent that helps shorten messages using Google's Agent Development Kit (ADK) and Vertex AI.
@@ -113,7 +113,7 @@ poetry run deploy-remote --delete --resource_id=your-resource-id
 ## Architecture Overview
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/ADK-Architecture.max-2000x2000.jpg" alt="ADK Architecture" width="700">
+  <img src="https://google.github.io/adk-docs/assets/agent-types.png" alt="Agents" width="700">
 </p>
 
 The ADK Bot leverages Google's Agent Development Kit to create a message shortening agent. The architecture consists of:
@@ -162,7 +162,11 @@ adk-bot/
 ## How It Works
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/ADK-workflow.max-1000x1000.jpg" alt="ADK Workflow" width="600">
+  <img src="https://google.github.io/adk-docs/assets/event-loop.png" alt="Event Loop" width="600">
+</p>
+
+<p align="center">
+  <img src="https://google.github.io/adk-docs/assets/deploy-agent.png" alt="Deploying your agent" width="600">
 </p>
 
 1. **Input Processing**: The agent receives a message to shorten
