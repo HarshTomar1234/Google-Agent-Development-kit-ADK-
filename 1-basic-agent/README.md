@@ -20,8 +20,8 @@ The foundation for all agents in ADK is the `BaseAgent` class, but for most prac
 2. **Workflow Agents** (Sequential, Parallel, Loop) - Control execution flow with predefined patterns
 3. **Custom Agents** - Extend `BaseAgent` for highly specialized behaviors
 
-![ADK Agent Types](![image](https://github.com/user-attachments/assets/d6087d2e-133d-4e68-9a51-e6bb8e13ee31)
-)
+[ADK Agent Types] (google_adk_images/agents.png)
+
 
 ## Implementation Details
 
