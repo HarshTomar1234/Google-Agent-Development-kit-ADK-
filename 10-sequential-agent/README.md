@@ -26,7 +26,7 @@ The `SequentialAgent` class in ADK:
 
 Sub-agents in the sequence can be any valid ADK agent, including LLM agents, other workflow agents, or custom agents.
 
-[Sequential Agents](../google_adk_images\sequential_agents.png)
+![Sequential Agents](../google_adk_images\sequential_agents.png)
 
 ## Implementation Details
 
