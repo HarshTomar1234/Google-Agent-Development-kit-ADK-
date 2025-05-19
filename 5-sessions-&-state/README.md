@@ -13,7 +13,7 @@ According to the [official ADK documentation](https://google.github.io/adk-docs/
 - Track the progression of multi-turn interactions
 - Maintain context for more natural conversations
 
-[Sessions Lifecycle](google_adk_images\sessions_lifecycle.png)
+![Sessions Lifecycle](../google_adk_images/sessions_lifecycle.png)
 
 Sessions in ADK consist of:
 1. **Session Metadata**: Identifiers for the app, user, and specific conversation
