@@ -30,7 +30,7 @@ ADK provides several types of callbacks for different parts of the agent executi
    - `before_tool_callback`: Executed before a tool is called
    - `after_tool_callback`: Executed after a tool completes execution
 
-[Callbacks](google_adk_images\callbacks.png)
+![Callbacks](../google_adk_images/callbacks.png)
 
 ### Callback Context
 
