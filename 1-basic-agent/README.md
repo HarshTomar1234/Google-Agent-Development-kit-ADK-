@@ -19,8 +19,8 @@ The foundation for all agents in ADK is the `BaseAgent` class, but for most prac
 1. **LLM Agents** (`LlmAgent`, `Agent`) - Use Large Language Models to understand language, reason, and generate responses
 2. **Workflow Agents** (Sequential, Parallel, Loop) - Control execution flow with predefined patterns
 3. **Custom Agents** - Extend `BaseAgent` for highly specialized behaviors
-
-[ADK Agent Types] (google_adk_images/agents.png)
+4. 
+![ADK Agent Types](google_adk_images/agents.png)
 
 
 ## Implementation Details
