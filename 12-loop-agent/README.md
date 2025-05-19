@@ -29,7 +29,7 @@ Loop agents can be configured with:
 - Sub-agents that run in each iteration
 - Custom logic for determining when to terminate the loop
 
-[Loop Agents](google_adk_images\loop_agents.png)
+![Loop Agents](../google_adk_images/loop_agents.png)
 
 ## Implementation Details
 
