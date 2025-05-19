@@ -27,7 +27,7 @@ The `ParallelAgent` class in ADK:
 
 Each sub-agent processes the same input independently, and their outputs are aggregated. This differs from sequential agents, where output from one agent becomes the input for the next.
 
-[Parallel Agents](google_adk_images\parallel_agents.png)
+![Parallel Agents](../google_adk_images/parallel_agents.png)
 
 ## Implementation Details
 
